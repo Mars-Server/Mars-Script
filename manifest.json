@@ -1,0 +1,38 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Mars-ScriptCommand",
+        "name": "Mars-ScriptCommand",
+        "uuid": "fc4d8699-cd11-4310-9b68-624280142bb2",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            82
+        ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "00598276-27bd-4775-8fe7-9cb1a5a78387",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/index.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "3.0.0-alpha"
+        }
+    ]
+}
