@@ -4,26 +4,26 @@
 
 modules内の、marsScript.jsを配置すれば、他のアドオンでも機能を使用することができます。
 
-## reload
+### reload
 サーバーのリロードを行います。
 
-## stop
+### stop
 サーバーを停止します。
 
-## restart
+### restart
 サーバーを再起動します。
 
-## backup
+### backup
 サーバーのバックアップを行います。
 
-## update
+### update
 サーバーをアップデートします。
 
-## transfer
+### transfer
 プレイヤーを特定のサーバーに転送します。
 
-## kick
+### kick
 プレイヤーを理由と共にキックします。
 
-## allowlist
+### allowlist
 ホワイトリストの追加や削除を行います。
